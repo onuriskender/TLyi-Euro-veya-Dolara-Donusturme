@@ -1,0 +1,16 @@
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\bin\Debug\net5.0\Döviz_Hesaplama.exe
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\bin\Debug\net5.0\Döviz_Hesaplama.deps.json
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\bin\Debug\net5.0\Döviz_Hesaplama.runtimeconfig.json
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\bin\Debug\net5.0\Döviz_Hesaplama.runtimeconfig.dev.json
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\bin\Debug\net5.0\Döviz_Hesaplama.dll
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\bin\Debug\net5.0\Döviz_Hesaplama.pdb
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\Döviz_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\Döviz_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\Döviz_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\Döviz_Hesaplama.AssemblyInfo.cs
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\Döviz_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\Döviz_Hesaplama.dll
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\refint\Döviz_Hesaplama.dll
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\Döviz_Hesaplama.pdb
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\Döviz_Hesaplama.genruntimeconfig.cache
+C:\Users\ois\source\repos\Döviz_Hesaplama\Döviz_Hesaplama\obj\Debug\net5.0\ref\Döviz_Hesaplama.dll
